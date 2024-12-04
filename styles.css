@@ -1,0 +1,31 @@
+body {
+    font-family: 'Georgia', serif;
+    line-height: 1.8;
+    margin: 0;
+    padding: 0;
+    background-color: #fcf8f3;
+    color: #444;
+}
+
+header {
+    background-color: #e07a5f;
+    color: white;
+    text-align: center;
+    padding: 25px 0;
+}
+
+main {
+    padding: 20px;
+}
+
+article h2 {
+    color: #e07a5f;
+}
+
+footer {
+    text-align: center;
+    margin-top: 20px;
+    padding: 15px 0;
+    background-color: #e07a5f;
+    color: white;
+}
